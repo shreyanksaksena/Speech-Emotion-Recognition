@@ -1,0 +1,5 @@
+numba
+librosa
+tensorflow
+SpeechRecognition
+gtts
